@@ -1,0 +1,94 @@
+body{
+  background-image: url(http://res.cloudinary.com/dhjypclhx/image/upload/v1499457531/Picture1_jip0d6.png);
+  background-size: 300px 300px;
+}
+
+.navbar{
+  background-color:rgba(24,84,110,0.5);  
+}
+
+.logo{
+	height:70px;
+	width:70px;
+	position:relative;
+	top: -25px;
+}
+
+.logo2{
+	height:50px;
+	width:50px;
+}
+
+.navbar-nav li a {
+ line-height: 50px;
+ font-family: vernon;
+ font-size: 18px;
+ margin-right:10px;
+ font-weight: bold;
+}
+
+
+.content-box{
+	background-color:rgba(24,84,110,0.5);  
+	
+	margin: 40px 10px 10px 10px;
+
+	display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.image{
+	display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.navbar{
+	margin-left:10px;
+	margin-right:10px;
+}
+
+.section-title{
+	font-family: vernon;
+	font-size: 24px;
+	font-weight: bold;
+}
+
+.col-md-6 p {
+	font-family: vernon;
+	font-size: 24px;
+}
+
+.content-box2{
+	background-color:rgba(24,84,110,0.5);  
+	height: 100%;
+	padding: 30px;	
+}
+
+.flag{
+	height:30px;
+	width:60px;
+}
+
+.contact-info{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 20px;
+	font-family: vernon;
+	font-size: 18px;
+}
+
+.projects-style{
+	font-family: vernon;
+	font-size: 18px;
+	padding: 10px;
+}
+
+.project-images{
+	max-height: 200px;
+	margin-right:40px;
+	margin-top:20px;
+	margin-bottom:20px;
+}
+
