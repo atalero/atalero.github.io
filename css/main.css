@@ -94,3 +94,6 @@ body{
 	margin-bottom:10px;
 }
 
+.col-lg-4:hover{
+	background: rgba(24,84,110,0.5);
+}
