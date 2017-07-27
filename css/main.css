@@ -94,8 +94,7 @@ body{
 	margin-bottom:10px;
 }
 
-@media (pointer: fine) {
-	.col-lg-4:hover{
-		background: rgba(24,84,110,0.5);
-	}
+.col-lg-4:hover{
+	background: rgba(24,84,110,0.5);
 }
+
