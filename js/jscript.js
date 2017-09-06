@@ -11,7 +11,7 @@ $(document).ready(function(){
 							'slow');
 			});
 	
-			$(".item2.5").click(function() {
+			$(".item4").click(function() {
 					$('html,body').animate({
 							scrollTop: $(".back-end").offset().top},
 							'slow');
