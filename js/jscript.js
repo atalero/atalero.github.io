@@ -10,6 +10,12 @@ $(document).ready(function(){
 							scrollTop: $(".my-projects").offset().top},
 							'slow');
 			});
+	
+			$(".item2.5").click(function() {
+					$('html,body').animate({
+							scrollTop: $(".back-end").offset().top},
+							'slow');
+			});
 
 			$(".item3").click(function() {
 					$('html,body').animate({
