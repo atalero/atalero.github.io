@@ -22,4 +22,10 @@ $(document).ready(function(){
 							scrollTop: $(".contact-me").offset().top},
 							'slow');
 			});
+	
+			$(".item5").click(function() {
+					$('html,body').animate({
+							scrollTop: $(".certificates").offset().top},
+							'slow');
+			});
 });
