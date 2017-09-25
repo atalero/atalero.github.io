@@ -101,3 +101,12 @@ body{
 .col-lg-4 {
 	margin-top: 15px;
 }
+
+a {
+   color: black;
+}
+
+a:hover{
+	text-decoration: none;
+	color: black;
+}
