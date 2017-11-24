@@ -73,6 +73,7 @@ body{
 .flag{
 	height:30px;
 	width:60px;
+  float: right;
 }
 
 .contact-info{
